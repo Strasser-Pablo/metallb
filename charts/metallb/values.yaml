@@ -162,7 +162,7 @@ speaker:
   tolerateMaster: true
   memberlist:
     enabled: true
-    mlBindPort: 7946
+    mlBindPort: 77946
   image:
     repository: quay.io/metallb/speaker
     tag:
